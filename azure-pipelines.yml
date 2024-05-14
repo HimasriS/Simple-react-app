@@ -37,4 +37,3 @@ steps:
     repository: 'himasri07/scenery'
     command: 'buildAndPush'
     Dockerfile: '**/Dockerfile'
-    tags: 'latest'
